@@ -24,7 +24,7 @@
 <p align="left">
 <a href="https://github.com/Durgaai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Durgaai" height="30" width="40" /></a>
 <a href="https://instagram.com/_anubhav_1608" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_anubhav_1608" height="30" width="40" /></a>
-<a href="https://instagram.com/_anubhav_1608" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_anubhav_1608" height="30" width="40" /></a>
+<a href="https://instagram.com/durgaai.in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="durgaai.in" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@Durgaai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Durgaai" height="30" width="40" /></a>
 
 </p>
