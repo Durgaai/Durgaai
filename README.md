@@ -44,7 +44,7 @@ src="https://skillicons.dev/icons?i=gamemakerstudio,gcp,git,github,heroku,html,j
 </p>
 
 <h3 align="left">💌Support:</h3>
-<p></p>Now You Can Support Me And Appreciate My Work Just BuyMeAPizza!!😊</p>
+<p></p>Now You Can Support Me And Appreciate My Work Just BuyMeABook!!😊</p>
 <p><a href="https://www.buymeacoffee.com/durgaai.in"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a book&emoji=📖&slug=durgaai.in&button_colour=65b741&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a></p>
 <h3 align="left">📊My Info:</h3>
 
