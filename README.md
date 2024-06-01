@@ -15,9 +15,9 @@
 
 - 💬 Ask me about **Python, Website Creation , Artificial Intelligence**
 
-- 📫 How to reach me **service.durgaai@gmail.com**
+- 📫 How to reach me **info.durgaai@gmail.com**
 
-- ⚡ Fun fact **I Am In Class 11th.**
+- ⚡ Fun fact **I Am In Class 12th.**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Durgaai&label=Profile%20views&color=0e75b6&style=flat" alt="Durgaai" /> </p>
 
 <h3 align="left">✅Connect with me:</h3>
