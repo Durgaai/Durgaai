@@ -17,14 +17,13 @@
 
 - 📫 How to reach me **info.durgaai@gmail.com**
 
-- ⚡ Fun fact **I Am In Class 12th.**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Durgaai&label=Profile%20views&color=0e75b6&style=flat" alt="Durgaai" /> </p>
 
 <h3 align="left">✅Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/Durgaai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Durgaai" height="30" width="40" /></a>
-<a href="https://instagram.com/_anubhav_1608" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_anubhav_1608" height="30" width="40" /></a>
-<a href="https://instagram.com/durgaai.in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="durgaai.in" height="30" width="40" /></a>
+<a href="https://instagram.com/ai.dev.anubhav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_anubhav_1608" height="30" width="40" /></a>
+<a href="https://instagram.com/durgaai.solutions" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="durgaai.in" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@Durgaai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Durgaai" height="30" width="40" /></a>
 <a href="https://www.durgaai.in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/blogger.svg" alt="Durgaai" height="30" width="40" /></a>
 <a href="https://www.x.com/Durgaai_india" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Durgaai" height="30" width="40" /></a>
