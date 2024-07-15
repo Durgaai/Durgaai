@@ -23,11 +23,7 @@
 <p align="left">
 <a href="https://github.com/Durgaai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Durgaai" height="30" width="40" /></a>
 <a href="https://instagram.com/ai.dev.anubhav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_anubhav_1608" height="30" width="40" /></a>
-<a href="https://instagram.com/durgaai.solutions" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="durgaai.in" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@Durgaai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Durgaai" height="30" width="40" /></a>
 <a href="https://www.durgaai.in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/blogger.svg" alt="Durgaai" height="30" width="40" /></a>
-<a href="https://www.x.com/Durgaai_india" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Durgaai" height="30" width="40" /></a>
-
 </p>
 
 <h3 align="left">⚙️Languages and Tools:</h3>
@@ -43,7 +39,7 @@ src="https://skillicons.dev/icons?i=gamemakerstudio,gcp,git,github,heroku,html,j
 </p>
 
 <h3 align="left">💌Support:</h3>
-<p></p>Now You Can Support Me And Appreciate My Work Just BuyMeABook!!😊</p>
+<p></p>Now You Can Support Me And Appreciate My Work On BuyMeABook!!😊</p>
 <a href="https://www.buymeacoffee.com/durgaai.in"><img src="https://img.buymeacoffee.com/button-api/?text=Durgaai Solutions&emoji=🤖&slug=durgaai.in&button_colour=87a922&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" /></a>
 <h3 align="left">📊My Info:</h3>
 
